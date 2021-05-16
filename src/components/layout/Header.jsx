@@ -10,7 +10,7 @@ const Header = () => {
 };
 
 const headerStyle = {
-    background: '#204064',
+    background: 'blue',
     padding: '20px',
     borderBottom: "4px solid red"
 }

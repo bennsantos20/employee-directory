@@ -8,15 +8,13 @@ const SearchBar = () => {
           name="search"
           style={searchStyle}
           placeholder="Search"
-        //   value={this}
-        //   onChange={this.onChange}
         />
         </form>
     );
 };
 
 const formStyle = {
-    background: '#f4f4f4',
+    background: '',
     padding: "10px", 
 }
 
